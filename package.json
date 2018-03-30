@@ -1,0 +1,25 @@
+{
+  "name": "quickwp",
+  "version": "1.0.0",
+  "description": "setup wordpress sites locally quickly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhawa-se/quick_wordpress.git"
+  },
+  "keywords": [
+    "wordpress",
+    "export",
+    "import",
+    "quick"
+  ],
+  "author": "Madhawa Priyashantha <madhawapriyashantha@gmail.com> (https://madhawa-se.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhawa-se/quick_wordpress/issues"
+  },
+  "homepage": "https://github.com/madhawa-se/quick_wordpress#readme"
+}
